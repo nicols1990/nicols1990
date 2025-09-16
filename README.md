@@ -1,5 +1,4 @@
 <h1 align="center">Hola 👋, soy Nicolas Velardez</h1>
-<h3 align="center">Un apasionado desarrollador frontend de India</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollador Full Stack**
 
